@@ -1,19 +1,25 @@
 # Diabetes Health Indicators Analysis - Group 3
 
-**Course:** Data Science - Högskolan Väst, Sweden  
-**Dataset Source:** BRFSS 2015 - CDC
+**Course:** AI Automation  
+**Subject:** Artificial Intelligence and Machine Learning  
+**University:** Högskolan Väst, Sweden  
+**Project Topic:** Diabetes Health Indicators (BRFSS 2015)
 
-### 📊 Dataset Link
+### 📊 Dataset Link (Given by Teacher)
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 ### 📝 About Dataset
-- Total 253,680 people health data
-- 21 health indicators (BMI, Blood Pressure, Cholesterol, Smoking, Age etc)
-- Target: Diabetes (0 = No Diabetes, 1 = Diabetes)
+- 253,680 health survey responses from US (CDC - BRFSS 2015)
+- 21 health indicators: BMI, Blood Pressure, Cholesterol, Smoking, Age, Physical Activity etc.
+- Target: Diabetes_binary (0 = No Diabetes, 1 = Prediabetes/Diabetes)
 
 ### 🎯 Project Goal
-To analyze health indicators and predict diabetes risk
+To analyze health indicators and predict diabetes risk using Machine Learning
 
-### 👥 Team: Group 3
+### 👥 Group 3 Members
+- Inas Al-Kamachy
+- Maju Anand
+- Sravani Manda
 
-### 🛠️ Tools: Python, Pandas, Matplotlib, Scikit-learn 
+### 🛠️ Tools
+Python, Pandas, NumPy, Matplotlib, Scikit-learn
